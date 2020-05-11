@@ -36,6 +36,8 @@
 
 ![](pic/003.jpg)
 
+**如果没有美国节点的，可参考用我的[机场](https://t.co/OGzuQ1kAL3?amp=1)
+
 ## 步骤二、挑选 Google Voice 号码
 
 * 打开 [Google Voice](https://voice.google.com/) 使用 Google 账户登陆，点击「选择电话号码」。
@@ -96,8 +98,6 @@
 ![](pic/023.png)
 
 ![](pic/024.png)
-
-![](pic/025.png)
 
 ## 为什么建议使用 Google 环聊？
 
