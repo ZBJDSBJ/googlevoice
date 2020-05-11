@@ -36,7 +36,7 @@
 
 ![](pic/003.jpg)
 
-**如果没有美国节点的，可参考用我的[机场](https://t.co/OGzuQ1kAL3?amp=1)
+**如果没有美国节点的，可参考我用的[机场](https://t.co/OGzuQ1kAL3?amp=1)**
 
 ## 步骤二、挑选 Google Voice 号码
 
