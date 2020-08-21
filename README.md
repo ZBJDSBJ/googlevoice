@@ -83,7 +83,7 @@
 
 免费的步骤较繁琐一点，但不复杂。通过[flyp](https://getflyp.com/get-flyp/)虚拟号码可以接收google voice验证码（已验证），但是注册[flyp](https://getflyp.com/get-flyp/)也是需要一个美国的电话号码，这时就可以注册说道APP来获得一个专属美国电话号码<br>
 
-* [说道APP](https://tku.page.link/nLs3)，苹果手机需要用美区AppleID下载，没有美区ID的可自行注册一个。安卓手机在Google Play里下载安装。说道支持中国手机号码直接注册。[说道APP官网](https://tku.page.link/nLs3)
+* [说道APP](https://tku.page.link/nLs3)，苹果手机需要用美区AppleID下载，没有美区ID的自行注册或电报群找我购买。安卓手机在Google Play里下载安装。说道支持中国手机号码直接注册。[说道APP官网](https://tku.page.link/nLs3)
 * [说道APP](https://tku.page.link/nLs3)可通过250个说道币兑换一个价值4.99$的美国专属号码
 * 可通过每日签到、补全个人资料、解锁更多免费说道币、玩游戏、邀请他人注册等方式获取说道币，小酷用了三天时间就攒够了250个说道币，成功兑换了一个专属美国号码
 
